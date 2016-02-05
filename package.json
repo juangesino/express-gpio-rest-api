@@ -1,0 +1,15 @@
+{
+  "name": "express-gpio-rest-api",
+  "version": "0.0.1",
+  "description": "Express server script for a RESTful API to access the Raspberry Pi's GPIO pins.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan I. Gesino",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "pi-gpio": "0.0.8"
+  }
+}
